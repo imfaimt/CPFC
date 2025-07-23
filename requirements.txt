@@ -1,0 +1,10 @@
+
+tqdm
+numpy==1.26.4
+av
+opencv-python
+tensorboard
+matplotlib
+timm
+scipy
+scikit-learn
